@@ -1,0 +1,13 @@
+.registro {
+  background-color: white;
+  border-radius: 15px;
+  padding: 10%;
+  width: max-content;
+  height: max-content;
+}
+
+.socialButtons {
+  font-size: 80px;
+  color: black;
+  padding: 5%;
+}

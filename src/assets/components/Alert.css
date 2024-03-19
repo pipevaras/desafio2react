@@ -1,0 +1,23 @@
+.rojo {
+  background-color: #e70505bf;
+  color: #ffffff;
+  width: 60%;
+  padding: 20px;
+  margin-top: 5px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.button {
+  width: max-content;
+}
+
+.iconos {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 5%;
+}
+
+.datos {
+  padding: 2%;
+}
